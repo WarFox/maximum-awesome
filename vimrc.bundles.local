@@ -1,0 +1,6 @@
+Plugin 'Valloric/YouCompleteMe'
+Plugin 'bling/vim-airline'
+Plugin 'derekwyatt/vim-scala'
+Plugin 'rust-lang/rust.vim'
+Plugin 'racer-rust/vim-racer'
+
